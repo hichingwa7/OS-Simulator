@@ -1,0 +1,9 @@
+Configuration File Data
+Monitor = 22 ms/cycle
+Processor = 30 ms/cycle
+Scanner = 128 ms/cycle
+Hard Drive = 4 ms/cycle
+Keyboard = 2 ms/cycle
+Memory = 60 ms/cycle
+Projector = 5 ms/cycle
+Logged to: monitor and logfile_1.lgf
